@@ -10,7 +10,7 @@
 
 <hr>
 
-Thanks to:
-- <a href="https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ">Coding Tech</a> for the best tutorials 
-- MLH for LHD: Share event
-- <a href="https://github.com/EddieHubCommunity">EddieHub</a> for putting me in Open Source world.
+
+`Contribute?`
+- Feel free to contribute
+- Raise issues/pr
