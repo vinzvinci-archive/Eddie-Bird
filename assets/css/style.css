@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+  text-align: center;
+  touch-action: manipulation;
+}
+
+h1 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
