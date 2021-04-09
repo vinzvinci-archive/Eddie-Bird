@@ -20,7 +20,8 @@ var ctx = c.getContext("2d");
       ctx.fillStyle = "black";
       ctx.fillText(`Current: ${score++}`, 10, 25); 
       bestScore = bestScore < score ? score : bestScore; 
-      ctx.fillText(`Best: ${bestScore}`, 320, 25); 
+      ctx.fillText(`Best: ${bestScore}`, 286, 25); 
+      ctx.font = "20px Verdana";
       (((birdY < topPipeBottomY || birdY > topPipeBottomY + pipeGap) && pipeX < birdSize * (952/452))
         || birdY > canvasSize) && ((birdDY = 3), (birdY = 200), (pipeX = canvasSize), (score = 0)); 
     }, interval)
