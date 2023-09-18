@@ -6,10 +6,9 @@
 ### Phone view
 ![phoneview](https://user-images.githubusercontent.com/73097560/113392355-930fe700-93c7-11eb-9400-928f1a7ad85a.jpg)
 
-<a href="https://vinzvinci.github.io/Eddie-Bird/">Live View</a>
+[Live View](https://vinzvinci-archive.github.io/Eddie-Bird/)
 
 <hr>
-
 
 `Contribute?`
 - Feel free to contribute
